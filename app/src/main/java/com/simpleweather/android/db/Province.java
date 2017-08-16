@@ -1,5 +1,5 @@
 package com.simpleweather.android.db;
-
+import org.litepal.crud.DataSupport;
 /**
  * Created by otanesyl on 2017/8/16.
  */
